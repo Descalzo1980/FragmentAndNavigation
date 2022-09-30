@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentAndNavigation</string>
+    <string name="welcome">Привет</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="msg_hint">Введите своё имя</string>
+    <string name="encrypt_text">Тебя зовут: </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
